@@ -1,0 +1,6 @@
+1.	Mark Pilgrim. Dive Into Python. Case Study:Parsing Phone Numbers.    http://www.diveintopython.net/regular_expressions/phone_numbers.html
+2.	Romanization of Ukrainian. http://en.wikipedia.org/wiki/Romanization_of_Ukrainian
+3.	Simple tools for processing strings in Russian. https://pypi.python.org/pypi/pytils
+4.	Can Google break the computer language barrier? http://www.theguardian.com/technology/2010/dec/19/google-translate-computers-languages
+5.	Ukraine Ditches Soviet Street Names: Ukrainian seek to distance nation from totalitarian past. http://uatoday.tv/society/some-of-ukraine-s-streets-named-after-lenin-are-to-be-renamed-390462.html
+6.	UEFA Euro 2012. http://en.wikipedia.org/wiki/UEFA_Euro_2012
