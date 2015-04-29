@@ -1,0 +1,12 @@
+I have chosen kyiv which is a capital city of Ukraine. It is the largest city of the country with population about 2,847,200. Recently, Vitali Klitschko, former world boxing champion was elected as a Mayor and Head of City State Administration.
+
+I was born in this city and want to make a contribution to the OpenStreetMap project using my knowledge and such opportunity.
+
+
+coordinates of city are: 50°27?00?N 30°31?24?E
+
+OSM Metro link is
+https://s3.amazonaws.com/metro-extracts.mapzen.com/kyiv_ukraine.osm.bz2
+
+OSM link is
+http://www.openstreetmap.org/search?query=kyiv#map=12/50.4547/30.5238
